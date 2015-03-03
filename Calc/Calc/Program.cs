@@ -17,5 +17,10 @@ namespace Calc
         {
             return x + y;
         }
+
+        public int SubtractNumbers(int x, int y)
+        {
+            return x - y;
+        }
     }
 }
