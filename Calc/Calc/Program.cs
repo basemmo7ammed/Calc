@@ -10,6 +10,12 @@ namespace Calc
     {
         static void Main(string[] args)
         {
+
+        }
+
+        public int AddNumbers(int x, int y)
+        {
+            return x + y;
         }
     }
 }
